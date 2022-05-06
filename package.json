@@ -1,6 +1,6 @@
 {
   "name": "@wcd/sivakuttuva.lwc-l2uxv7fl",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve VEM5mMBc5niYXAUC2zul --open"
   }
